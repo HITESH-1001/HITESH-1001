@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://hitesh-1001.github.io/ProfileImg/header.png" alt="Header">
+</p>
+
 
 
 <h1 align="center">Hello👋World, I'm Hitesh Moola</h1>
