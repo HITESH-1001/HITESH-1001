@@ -4,8 +4,7 @@
 
 
 
-<h1 align="center">Hello👋World, I'm Hitesh Moola</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="The IT Crowd GIF">
