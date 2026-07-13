@@ -15,7 +15,7 @@
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HITESH-1001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HITESH-1001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="contribution graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESH-1001&theme=dracula" height="150" alt="activity-graph graph"  />
 </div>
 
